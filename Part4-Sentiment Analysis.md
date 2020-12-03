@@ -1,5 +1,7 @@
 # Sentiment Analysis:
 
+![](https://www.upgrad.com/blog/wp-content/uploads/2019/04/70862042.png)
+
 Sentiment Analysis is the process of determining whether a piece of writing is positive, negative or neutral. A sentiment 
 analysis system for text analysis combines natural language processing (NLP) and machine learning techniques to assign
 weighted sentiment scores to the entities, topics, themes and categories within a sentence or phrase. Sentiment analysis 
@@ -10,6 +12,8 @@ to deliver useful insights to their own customers.
 
 
 ## Working of Sentiment Analysis:
+
+![](https://i.ytimg.com/vi/qoyp8pBtCZ0/maxresdefault.jpg)
 
 Basic sentiment analysis of text documents follows a straightforward process:
 
@@ -159,4 +163,5 @@ Rules-based sentiment analysis, for example, can be an effective way to build a 
 these rulesets quickly grow to become unmanageable. This is where machine learning can step in to shoulder the load of complex natural language processing 
 tasks, such as understanding double-meanings.
 
-Most hybrid sentiment analysis systems combine machine learning with software rules across the entire text analytics function stack, from low-level tokenization and syntax analysis all the way up to the highest-levels of sentiment analysis.
+Most hybrid sentiment analysis systems combine machine learning with software rules across the entire text analytics function stack, from low-level tokenization 
+and syntax analysis all the way up to the highest-levels of sentiment analysis.
